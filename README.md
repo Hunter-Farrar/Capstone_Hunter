@@ -2,9 +2,11 @@
 
 
 # Table of Contents
-- Motivation
-- Where the data was pulled from
-- What I plan to do
+1. Motivation
+2. What I plan to do
+3. Source
+
+
 
 
 # Motivation
@@ -14,4 +16,11 @@ What motivated me to pick this topic was the conversation my father and I had ab
 
 # What I plan to do
 
-1. 
+- Find the consumption rates of renewable energies
+- Discover which month had the most consumption for each form of renewable energies
+- Find which states had the most energy production and consumption in 2022
+
+
+# Source
+
+https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T10.01#/?f=M&start=200001&end=202408&charted=6-7-9-10
