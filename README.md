@@ -18,7 +18,8 @@ What motivated me to pick this topic was the conversation my father and I had ab
 
 - Find the consumption rates of renewable energies
 - Discover which month had the most consumption for each form of renewable energies
-- Find which states had the most energy production and consumption in 2022
+- Find the top 5 states that produced the most percentage of the U.S. total of energy in 2022
+- Find the top 5 states with the most amount of energy consumed
 
 
 # Source
